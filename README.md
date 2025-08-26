@@ -1,1 +1,1 @@
-# retail-sales-dashboard-sql-powerbi
+Insight Retail Analytics – Retail Sales Dashboard (SQL + Power BI)
